@@ -1,0 +1,12 @@
+.login {
+    font-family: sans-serif;
+    text-align: center;  
+    margin-left: 100px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-right: 150px;
+    width: 300px;
+    box-shadow: rgba(48, 48, 52, 0.2) 0px 40px 29px 20px;
+}
